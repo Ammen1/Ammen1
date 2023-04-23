@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Django Full Stack Developer
 ---------------------------
 
-"Hi there, I'm Tamirat Guda, a software developer passionate and Django Full Stack Developer about using technology to solve real-world problems. With experience in a variety of programming languages and tools, I enjoy taking on challenging projects and learning new skills along the way. When I'm not coding, you can find me exploring the great outdoors or reading up on the latest tech trends. Let's connect and collaborate on some exciting projects!"
+"Hi there, I'm Tamirat Guda, a software developer passionate and Django Full Stack Developer about using technology to solve real-world problems. With experience in a variety of programming languages and tools."
 
 * 🌍  I'm based in Ethiopia
 * 🖥️  See my portfolio at [https://tamirat.netlify.app/](http://https://tamirat.netlify.app/)
