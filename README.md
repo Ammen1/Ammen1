@@ -11,12 +11,9 @@
 * 🧠  I'm learning Application Developing both Desktop and Mobile Apps
 * 🤝  I'm open to collaborating on Django projects and any kind of IT project
 
-<a href="https://www.github.com/Tamirat" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Tamirat?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a><a href="https://www.twitter.com/Tamirat" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Tamirat?logo=twitter&style=for-the-badge&color=a855f7&labelColor=000000"
-/></a><a href="https://www.twitch.tv/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=000000&label=TWITCH+STATUS" /></a>
-
+<a align="center" href="https://www.github.com/Tamirat" target="_blank" rel="noreferrer"><img align="center"
+src="https://img.shields.io/github/followers/Tamirat?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" />
+</a>
 ### Skills
 
 
