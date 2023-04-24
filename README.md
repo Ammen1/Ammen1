@@ -53,9 +53,7 @@
 
 <a href="https://github.com/Tamirat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamirat&langs_count=10&title_color=84cc16&text_color=14b8a6&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
