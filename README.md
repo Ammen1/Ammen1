@@ -11,9 +11,7 @@
 * 🧠  I'm learning Application Developing both Desktop and Mobile Apps
 * 🤝  I'm open to collaborating on Django projects and any kind of IT project
 
-<a align="center" href="https://www.github.com/Tamirat" target="_blank" rel="noreferrer"><img align="center"
-src="https://img.shields.io/github/followers/Tamirat?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" />
-</a>
+<a href="https://github.com/Ammen1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammen1&langs_count=10&title_color=84cc16&text_color=14b8a6&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 ### Skills
 
 
