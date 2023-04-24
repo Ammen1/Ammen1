@@ -45,13 +45,13 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Tamirat"><img src="https://github-readme-stats.vercel.app/api?username=Tamirat&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=14b8a6&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="Tamirat's GitHub stats" /></a>
+<a href="http://www.github.com/Ammen1"><img src="https://github-readme-stats.vercel.app/api?username=Ammen1&show_icons=true&hide=commits,&count_private=true&title_color=84cc16&text_color=14b8a6&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="Ammen1's GitHub stats" /></a>
 
-<a href="http://www.github.com/Tamirat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamirat&stroke=14b8a6&background=000000&ring=84cc16&fire=84cc16&currStreakNum=14b8a6&currStreakLabel=84cc16&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+<a href="http://www.github.com/Ammen1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammen1&stroke=14b8a6&background=000000&ring=84cc16&fire=84cc16&currStreakNum=14b8a6&currStreakLabel=84cc16&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="http://www.github.com/Tamirat"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tamirat&bg_color=000000&color=14b8a6&line=a855f7&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Ammen1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ammen1&bg_color=000000&color=14b8a6&line=a855f7&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Tamirat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamirat&langs_count=10&title_color=84cc16&text_color=14b8a6&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Ammen1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammen1&langs_count=10&title_color=84cc16&text_color=14b8a6&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
