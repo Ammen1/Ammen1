@@ -5,8 +5,8 @@
 <h3 align="center">"Hi there, I'm Tamirat Guda, a software developer passionate and Django Full Stack Developer about using technology to solve real-world problems.</h3>
 
 * 🌍  I'm based in Ethiopia
-* 🖥️  See my portfolio at [https://tamirat.netlify.app/](http://https://tamirat.netlify.app/)
-* ✉️  You can contact me at [abushguda178@gmail.com](mailto:abushguda178@gmail.com)
+* 🖥️  See my portfolio at [https://tamirat-protofolio.vercel.app//](https://tamirat-protofolio.vercel.app/)
+* ✉️  You can contact me at [amenguda@gmail.com](mailto:amenguda@gmail.com)
 * 🚀  I'm currently working on [Django Ecommerce Website](http://https://github.com/Ammen1)
 * 🧠  I'm learning Application Developing both Desktop and Mobile Apps
 * 🤝  I'm open to collaborating on Django projects and any kind of IT project
