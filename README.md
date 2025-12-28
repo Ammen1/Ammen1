@@ -1,4 +1,4 @@
-![logo](https://github.com/Ammen1/Ammen1/blob/main/Screenshot%20(6).png)
+
 <h1 align="center">Hi 👋, I'm Tamirat Guda</h1>
 <h1 align="center">Full Stack Developer</h1>
 
