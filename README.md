@@ -2,15 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tamirat Guda</h1>
 <h1 align="center">Backend Developer</h1>
 
-<h3 align="center">"Hi there, I'm Tamirat Guda, a software developer passionate and Full Stack Developer.</h3>
-
-* 🌍  I'm based in Ethiopia
-* 🖥️  See my portfolio at [https://tamirat-protofolio.vercel.app//](https://tamirat-protofolio.vercel.app/)
-* ✉️  You can contact me at [amenguda@gmail.com](mailto:amenguda@gmail.com)
-* 🚀  I'm currently working on [Django Ecommerce Website](http://https://github.com/Ammen1)
-* 🧠  I'm learning Application Developing both Desktop and Mobile Apps
-* 🤝  I'm open to collaborating on Django projects and any kind of IT project
-
+<h3 align="center">"Hi there, I'm Ethan Guda,Backend Developer.</h3>
 
 ### Skills
 
@@ -33,10 +25,6 @@
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/Amen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Tamirat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/amenabush" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amenguda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Tamirat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/Gebi life" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -49,8 +37,3 @@
 
 <a href="https://github.com/Ammen1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammen1&langs_count=10&title_color=84cc16&text_color=14b8a6&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/Tamirat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
