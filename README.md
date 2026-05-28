@@ -1,39 +1,205 @@
+# Hi 👋, I'm Tamirat
 
-<h1 align="center">Hi 👋, I'm Ethan Guda</h1>
-<h1 align="center">Backend Developer</h1>
+# Senior Backend Engineer | Fintech & Distributed Systems Engineer
 
-<h3 align="center">"Hi there, I'm Ethan Guda,Backend Developer.</h3>
+### Building scalable financial systems, resilient APIs, and enterprise-grade backend infrastructure.
 
-### Skills
+I'm a Software Engineer from Ethiopia with strong expertise in backend engineering, distributed systems, fintech infrastructure, and scalable microservice architectures.
 
+I specialize in designing high-performance APIs, payment systems, event-driven architectures, and reliable transaction workflows for large-scale applications.
+
+Currently working on fintech and enterprise platforms including **StarPay**, **Ethiopay**, **CashGo**, **GetFee**, and multiple private financial systems handling high-volume transactions and distributed services.
+
+---
+
+## 🚀 About Me
+
+* 🔭 Currently working on scalable fintech and payment systems
+* 🌱 Exploring advanced distributed systems and Rust backend development
+* ⚡ Specialized in backend architecture, payment integrations, and microservices
+* 🏦 Experience building financial platforms processing billions of birr in transactions
+* 🛠 Strong focus on performance optimization, clean architecture, and reliability engineering
+* ⚽ Arsenal supporter
+* 📚 Interested in psychology, self-growth, system design, and scalable infrastructure
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
+</a>
+
+<a href="https://golang.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" />
+</a>
+
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" alt="Rust" />
+</a>
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" />
+</a>
+
+<a href="https://dart.dev/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
+</a>
+</p>
+
+---
+
+# ⚙️ Backend & Infrastructure
+
+<p align="left">
+
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+</a>
+
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" />
+</a>
+
+<a href="https://redis.io/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+</a>
+
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" />
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
+</a>
 
 </p>
 
+---
 
-### Badges
+# 🏗 Core Expertise
 
-<b>My GitHub Stats</b>
+* REST API Development
+* Microservices Architecture
+* Distributed Systems
+* Saga Pattern
+* Event-Driven Architecture
+* Clean Architecture
+* JWT Authentication & Authorization
+* API Gateway Design
+* Payment Gateway Integration
+* Financial Transaction Systems
+* CI/CD Pipelines
+* Docker & Kubernetes
+* Database Optimization
+* Scalable Backend Systems
+* High-Performance API Design
 
-<a href="http://www.github.com/Ammen1"><img src="https://github-readme-stats.vercel.app/api?username=Ammen1&show_icons=true&hide=commits,&count_private=true&title_color=84cc16&text_color=14b8a6&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="Ammen1's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/Ammen1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammen1&stroke=14b8a6&background=000000&ring=84cc16&fire=84cc16&currStreakNum=14b8a6&currStreakLabel=84cc16&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+# 💼 Featured Projects
 
-<a href="http://www.github.com/Ammen1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ammen1&bg_color=000000&color=14b8a6&line=a855f7&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## ⭐ StarPay Ethiopia
 
-<a href="https://github.com/Ammen1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammen1&langs_count=10&title_color=84cc16&text_color=14b8a6&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+Scalable fintech infrastructure powering digital payment services and merchant ecosystems.
 
+* Secure transaction APIs
+* Wallet systems
+* Payment integrations
+* Merchant management
+* Financial reporting systems
+
+🔗 https://starpayethiopia.com
+
+---
+
+## 💳 Ethiopay
+
+National-scale interoperable digital payment platform.
+
+* Distributed transaction workflows
+* Saga pattern implementation
+* Secure payment integrations
+* High-availability backend services
+
+🔗 https://ethswitch.com/ethiopay/
+
+---
+
+## 🏦 CashGo – Bank of Abyssinia
+
+Mobile financial platform supporting digital banking operations.
+
+* Authentication systems
+* Transaction APIs
+* Banking integrations
+* High-volume financial workflows
+
+🔗 https://play.google.com/store/apps/details?id=com.bankofabyssinia.cashgo&hl=en-US
+
+---
+
+## 📊 GetFee Enterprise
+
+Large-scale enterprise payment and fee collection platform.
+
+* Processed over 60+ billion birr transactions
+* Financial reconciliation systems
+* Enterprise reporting
+* Secure payment processing infrastructure
+
+🔗 https://www.getfeeenterprise.com/
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<a href="https://github.com/Ammen1">
+<img src="https://github-readme-stats.vercel.app/api?username=Ammen1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</a>
+
+<a href="https://github.com/Ammen1">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammen1&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Ammen1">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammen1&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/ethanguda/
+* Portfolio: [Your Portfolio]
+* Medium: https://medium.com/@amenguda
+* GitHub: https://github.com/Ammen1
+
+---
+
+# ⚡ Philosophy
+
+> “Build systems that scale, APIs that last, and software that solves real problems.”
