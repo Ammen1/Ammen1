@@ -194,7 +194,7 @@ Large-scale enterprise payment and fee collection platform.
 # 🌍 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/ethanguda/
-* Portfolio: [Your Portfolio]
+* Portfolio: https://tamirat-protofolio.vercel.app/
 * Medium: https://medium.com/@amenguda
 * GitHub: https://github.com/Ammen1
 
