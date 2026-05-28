@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tamirat
+# Hi 👋, I'm Tamirat(Ethan)
 
 # Senior Backend Engineer | Fintech & Distributed Systems Engineer
 
